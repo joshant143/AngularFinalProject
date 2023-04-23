@@ -1,0 +1,14 @@
+.myclass{
+    color: yellow;
+    font-size: 20px;
+    background-color: purple;
+}
+.pass{
+    color: white;
+    background-color: green;
+}
+
+.fail{
+    color: white;
+    background-color: red;
+}
